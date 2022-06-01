@@ -1,2 +1,3 @@
 # bumping_disks
-Bumping disks simulation in pygame
+
+Simple simulation of disks colliding with elastic collision using pygame.
