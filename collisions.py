@@ -1,8 +1,6 @@
-from turtle import distance
 import pygame as pg
 from math import atan2, pi, exp
 import random
-import copy 
 from vehicle import Vehicle
 from vehicle import Vector3
 import sys
